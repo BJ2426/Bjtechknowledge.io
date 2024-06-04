@@ -3,7 +3,7 @@
 #EXT-X-TARGETDURATION:4
 #EXT-X-MEDIA-SEQUENCE:1800
 #EXTINF:4.00000,
-/hls/live/2024729/inallow-icct20wc-2024/hin/1540029815/15mindvrm019bc4f27de52a4268a78fe7718d9506ec04june2024/master_apmf_480_4_132708_01800.ts
+http://live12p-ssai-akt-mum.cdn.hotstar.com/hls/live/2024729/inallow-icct20wc-2024/hin/1540029815/15mindvrm019bc4f27de52a4268a78fe7718d9506ec04june2024/master_apmf_480_4_132708_01800.ts
 #EXTINF:4.00000,
 /hls/live/2024729/inallow-icct20wc-2024/hin/1540029815/15mindvrm019bc4f27de52a4268a78fe7718d9506ec04june2024/master_apmf_480_4_132712_01801.ts
 #EXTINF:4.00000,
